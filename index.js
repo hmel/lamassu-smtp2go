@@ -17,7 +17,6 @@ exports.config = function config (_config) {
 }
 
 exports.sendMessage = function sendMessage (rec) {
-  console.log(configuration)
   var user = configuration.user
   var pass = configuration.pass
   var fromEmail = configuration.fromEmail
