@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/lamassu/lamassu-smtp2go/issues"
   },
-  "homepage": "https://github.com/lamassu/lamassu-smtp2go"
+  "homepage": "https://github.com/lamassu/lamassu-smtp2go",
+  "dependencies": {
+    "smtp-connection": "^2.3.2"
+  }
 }
